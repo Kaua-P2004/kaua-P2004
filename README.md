@@ -62,6 +62,9 @@
   <a href="https://profile.playstation.com/Homega_Black" target="_blank">
     <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" height="30" alt="PS logo"  />
   </a>
+  <a href="https://steamcommunity.com/profiles/76561198444720329/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" height="32" alt="Steam logo"  />
+  </a>
 </div>
 
 ###
